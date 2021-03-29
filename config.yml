@@ -1,0 +1,36 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: holywar4j
+theme: "PaperMod"
+
+enableEmoji: true
+
+
+menu:
+  main:
+    - name: Backlog
+      url: backlog
+      weight: 5
+    - name: Meeting list
+      url: overlook
+      weight: 5
+    # - name: Tags
+    #   url: tags/
+    #   weight: 10
+    - name: Categories
+      url: categories/
+      weight: 10
+
+params:
+  homeInfoParams:
+    Title: Обсуждаем Java на ножах
+    Content: >- 
+      Мы собираемся каждый четверг в **20:00 МСК** в дискорде 
+      и холиварим на выбранную тему.  
+
+      В наше ламповое комьюнити вход только по пропускам, 
+      поэтому, если хотите присоединиться, то пишите мне в 
+      [телеграм](https://t.me/boiarshinov)
+
+  # ShowReadingTime: true
+  # ShowBreadCrumbs: true
