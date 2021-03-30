@@ -1,10 +1,9 @@
-baseURL: https://boiarshinov.github.io/holywar4j/
+baseURL: https://boiarshinov.github.io/holywar4j/ #Used for relative paths
 languageCode: en-us
 title: holywar4j
 theme: "PaperMod"
 
 enableEmoji: true
-
 
 menu:
   main:
@@ -32,5 +31,5 @@ params:
       поэтому, если хотите присоединиться, то пишите мне в 
       [телеграм](https://t.me/boiarshinov)
 
-  # ShowReadingTime: true
-  # ShowBreadCrumbs: true
+  # ShowReadingTime: true #Add computed average reading time to every page
+  # ShowBreadCrumbs: true #Add road to the page for every page
