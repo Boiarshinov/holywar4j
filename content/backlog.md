@@ -1,7 +1,6 @@
 ---
 title: "Бэклог"
 draft: false
-ShowToc: true
 ---
 
 Список тем для обсуждения.  
