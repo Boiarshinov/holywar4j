@@ -17,7 +17,8 @@ draft: false
 | :two_hearts: | Презентация своих pet-проектов |  |
 | :two_hearts: | Плюсы и минусы свитча в IT (язык-> язык / testing <-> front <-> back <-> mobile <-> gamedev) | Сергей ChesenFew |
 | :two_hearts: | Логирование. Что логировать, как часто и с каким уровнем. Как сделать логи полезными | Мария |
-
+| :mortar_board: | Из Java разработки в GameDev | Рома |
+| :mortar_board: | In-Memory базы данных. Hazelcat, его настройка, использование и мониторинг | Артём |
 
 ### Легенда
 - :fire: `holywar` - жаркое обсуждение и ломание копий
