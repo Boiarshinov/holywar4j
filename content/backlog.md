@@ -37,3 +37,5 @@ draft: false
 - :two_hearts: Event Driven Design внутри одного приложения 
 - :fire: Библиотеки для конвертации DTO (MapStruct и другие) или обычные механизмы Java 
 - :fire: Способы построения динамических запросов: QueryDSL, Criteria API, Spring Specification, JOOQ
+
+
