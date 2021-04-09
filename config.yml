@@ -22,6 +22,9 @@ menu:
       weight: 10
 
 params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: Russian Java Developers Community
+  author: Artem Boiarshinov
   homeInfoParams:
     Title: Обсуждаем Java на ножах
     Content: >- 
