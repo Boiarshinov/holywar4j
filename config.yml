@@ -6,6 +6,8 @@ theme: "PaperMod"
 enableRobotsTXT: true
 enableEmoji: true
 
+googleAnalytics: G-Q3EWCSL2W9
+
 menu:
   main:
     - name: Backlog
