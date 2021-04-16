@@ -12,12 +12,14 @@ draft: false
 |--------------|------------|---------|
 | :two_hearts: | Способы создания DTO для Unit-тестов | Артём |
 | :cyclone:    | Как тестировать взаимодействие двух сервисов и быть уверенным в обратной совместимости | |
-| :two_hearts: | Презентация своих pet-проектов |  |
 | :two_hearts: | Плюсы и минусы свитча в IT (язык-> язык / testing <-> front <-> back <-> mobile <-> gamedev) | Сергей ChesenFew |
-| :two_hearts: | Логирование. Что логировать, как часто и с каким уровнем. Как сделать логи полезными | Мария |
 | :mortar_board: | Из Java разработки в GameDev | Рома |
 | :fire:       | Maven или Gradle | Рома |
 | :fire:       | Способы тестирования интеграции с БД: H2 vs Testcontainers | Артём |
+| :mortar_board: | Деплой веб-приложения на своей vps (docker / docker compose / https / subdomain by instance) | Катя |
+| :eyes:       | Мини демка фронт разработки - Angular & TypeScript на реальном тикете | Катя |
+| :mortar_board: | Api Management - когда это нужно и как работает | Катя |
+| :two_hearts: | CD / CI - автоматизация проверки и сборки кода (Github actions, Gitlab) | Катя |
 
 ### Легенда
 - :fire: `holywar` - жаркое обсуждение и ломание копий
@@ -38,5 +40,6 @@ draft: false
 - :fire: Способы построения динамических запросов: QueryDSL, Criteria API, Spring Specification, JOOQ. Хост - Артём
 - :two_hearts: Применение паттернов проектирования. Часть 2. Хост - Рома
 - :eyes: Выполнение тестового задания в онлайне. Хост - Женя 
+- :two_hearts: Презентация своих pet-проектов 
 
 
