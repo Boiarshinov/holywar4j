@@ -10,15 +10,18 @@ googleAnalytics: G-Q3EWCSL2W9
 
 menu:
   main:
+    - name: About
+      url: about
+      weight: 5
     - name: Backlog
       url: backlog
       weight: 5
     - name: Meeting list
       url: overlook
       weight: 5
-    # - name: Tags
-    #   url: tags/
-    #   weight: 10
+    - name: Talks
+      url: talks
+      weight: 5
     - name: Categories
       url: categories/
       weight: 10
@@ -26,15 +29,22 @@ menu:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: Russian Java Developers Community
-  author: Artem Boiarshinov
-  homeInfoParams:
-    Title: Обсуждаем Java на ножах
-    Content: >- 
-      Мы собираемся каждый четверг в **20:00 МСК** в дискорде 
-      и холиварим на выбранную тему.  
-      В наше ламповое комьюнити вход только по пропускам, 
-      поэтому, если хотите присоединиться, то пишите мне в 
-      [телеграм](https://t.me/boiarshinov)
+  profileMode:
+        enabled: true
+        subtitle: Русскоязычное Java сообщество
+        imageUrl: "android-chrome-192x192.png" # optional
+        imageTitle: "homepage image" # optional
+        imageWidth: 192 # custom size
+        imageHeight: 192 # custom size
+        buttons:
+          - name: About
+            url: about
+          - name: Backlog
+            url: backlog
+          - name: Meeting list
+            url: overlook
+          - name: Talks
+            url: talks
 
   # ShowReadingTime: true #Add computed average reading time to every page
   # ShowBreadCrumbs: true #Add road to the page for every page
