@@ -26,7 +26,15 @@ menu:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: Russian Java Developers Community
-  # author: Artem Boiarshinov
+  author: Artem Boiarshinov
+  homeInfoParams:
+    Title: Обсуждаем Java на ножах
+    Content: >- 
+      Мы собираемся каждый четверг в **20:00 МСК** в дискорде 
+      и холиварим на выбранную тему.  
+      В наше ламповое комьюнити вход только по пропускам, 
+      поэтому, если хотите присоединиться, то пишите мне в 
+      [телеграм](https://t.me/boiarshinov)
 
   # ShowReadingTime: true #Add computed average reading time to every page
   # ShowBreadCrumbs: true #Add road to the page for every page
