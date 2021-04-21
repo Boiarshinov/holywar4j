@@ -12,7 +12,6 @@ draft: false
 |--------------|------------|---------|
 | :two_hearts: | Способы создания DTO для Unit-тестов | Артём |
 | :cyclone:    | Как тестировать взаимодействие двух сервисов и быть уверенным в обратной совместимости | |
-| :two_hearts: | Плюсы и минусы свитча в IT (язык-> язык / testing <-> front <-> back <-> mobile <-> gamedev) | Сергей ChesenFew |
 | :mortar_board: | Из Java разработки в GameDev | Рома |
 | :fire:       | Maven или Gradle | Рома |
 | :fire:       | Способы тестирования интеграции с БД: H2 vs Testcontainers | Артём |
